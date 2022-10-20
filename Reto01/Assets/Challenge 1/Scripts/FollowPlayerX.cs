@@ -12,7 +12,7 @@ Fecha 19/Septiembre/2022
 public class FollowPlayerX : MonoBehaviour
 {
     public GameObject plane;
-    private Vector3 offset = new Vector3(20,2,0);
+    private Vector3 offset = new Vector3(20,2,0);//Se le asigna la poosicion a la camara
 
     // Start is called before the first frame update
     void Start()

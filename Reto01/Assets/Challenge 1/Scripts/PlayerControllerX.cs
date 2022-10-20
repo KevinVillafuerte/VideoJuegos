@@ -2,6 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*
+Autor: Kevin Michelle Chimal Villafuerte
+Grupo: Gdgs2102-E
+Carrera: Ing. Desarrollo de Software
+Fecha 19/Septiembre/2022
+*/
+
 public class PlayerControllerX : MonoBehaviour
 {
     public float speed; // La velocidad del Avion
