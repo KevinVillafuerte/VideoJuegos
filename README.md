@@ -35,8 +35,8 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
-  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion01">Laboratorio</a>
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion01"> Lección </a>
+  * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 2
