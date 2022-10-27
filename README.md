@@ -39,26 +39,31 @@
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto01"> Desafío </a>
   * > <a href="https://user-images.githubusercontent.com/56412490/198416712-0fb56d71-f13b-47c6-8ded-54e1f4fa5948.png"> Prueba </a>
+  
 * Lección 2
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion02"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto02"> Desafío </a>
-  * > Prueba
+  * > <a href="https://user-images.githubusercontent.com/56412490/198417254-11ed123c-9f79-477c-8ff8-1f5cfc19e7ad.png"> Prueba </a>
+
 * Lección 3
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion03"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto03"> Desafío </a>
   * > Prueba
+  
 * Lección 4
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion04"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto04"> Desafío </a>
   * > Prueba
+  
 * Lección 5
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion05"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto04"> Desafío </a>
   * > Prueba
+  
 * VideoJuego
 
 ## Planificación
