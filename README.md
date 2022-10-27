@@ -36,7 +36,7 @@
 
 * Lección 1
   * > Tutorial
-  * > Laboratorio
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion01">Laboratorio</a>
   * > Desafío
   * > Prueba
 * Lección 2
