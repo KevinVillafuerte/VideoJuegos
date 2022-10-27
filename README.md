@@ -38,7 +38,7 @@
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion01"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto01"> Desafío </a>
-  * > Prueba
+  * > <a href="https://user-images.githubusercontent.com/56412490/198416712-0fb56d71-f13b-47c6-8ded-54e1f4fa5948.png"> Prueba </a>
 * Lección 2
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion02"> Tutorial </a>
   * > Laboratorio
