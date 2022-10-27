@@ -35,29 +35,29 @@
 ## Código Fuente
 
 * Lección 1
-  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion01"> Lección </a>
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion01"> Tutorial </a>
   * > Laboratorio
-  * > Desafío
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto01"> Desafío </a>
   * > Prueba
 * Lección 2
-  * > Tutorial
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion02"> Tutorial </a>
   * > Laboratorio
-  * > Desafío
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto02"> Desafío </a>
   * > Prueba
 * Lección 3
-  * > Tutorial
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion03"> Tutorial </a>
   * > Laboratorio
-  * > Desafío
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto03"> Desafío </a>
   * > Prueba
 * Lección 4
-  * > Tutorial
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion04"> Tutorial </a>
   * > Laboratorio
-  * > Desafío
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto04"> Desafío </a>
   * > Prueba
 * Lección 5
-  * > Tutorial
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion05"> Tutorial </a>
   * > Laboratorio
-  * > Desafío
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto04"> Desafío </a>
   * > Prueba
 * VideoJuego
 
