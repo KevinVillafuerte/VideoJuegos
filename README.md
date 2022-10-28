@@ -23,13 +23,46 @@
 
 ## Introducción
 <ul>
-<li>- Nombre del proyecto </li>
-<li>- Objetivo. </li>
-<li>- Plataforma ,Género, Clasificación, Personajes, Escenario.</li>
+<li>Nombre del proyecto </li>
+    <ul style= "list-style-type: circle;">
+    <li> Fast Road </li>
+    </ul>
+<li>Objetivo. </li>
+    <ul style= "list-style-type: circle;">
+    <li> o	El jugador deberá de evitar obstáculos en un escenario 3D para poder llegar a la meta </li>
+    </ul>
+    
+<li> Plataforma ,Género, Clasificación, Personajes, Escenario.</li>
+     <ul style= "list-style-type: circle;">
+         <li> Plataforma: 3D </li>
+         <li> Género: Carrera </li>
+         <li> Clasificación: Para mayores de 10 años </li>
+         <li> Personajes: Carro </li>
+         <li> Escenario: Carreta, Casas, Bosques </li></ul>
+        
 <li>- Historia</li>
+         <ul style= "list-style-type: circle;">
+    <li> El jugador deberá de recorrer una carreta con diversos obstáculos evitando cada uno de ellos, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</li>
+    </ul>
 <li>- Personajes</li>
+    <ul style= "list-style-type: circle;">
+        <li> Carro </li>
+        <li> Objetos </li>
+    </ul>
+    
 <li>- Reglas de Juego.</li>
+    <ul style= "list-style-type: circle;">
+        <li> El jugador no podrá salir de la pista </li>
+        <li> Una vez que agarre un PowerUp será temporal </li>
+        <li> No podrá atravesar obstáculos </li>
+        <li> No se podrá agarrar más de un PowerUp a la  </li>
+    </ul>
 <li>- Pantallas de Juego</li>
+    <ul style= "list-style-type: circle;">
+        <li> Primer nivel: Una carretera en el bosque </li>
+        <li> Segundo Nivel: Una pista en la ciudad </li>
+        <li> Tercer Nivel: Una pista con intercambio de paisajes </li>
+    </ul>
 <li>- Plan de creación de VideoJuego.</li>
 </ul>
 
