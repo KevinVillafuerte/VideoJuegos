@@ -56,13 +56,13 @@
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion04"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto04"> Desafío </a>
-  * > <a href=""> Prueba </a>
+  * > <a href="https://user-images.githubusercontent.com/56412490/198658489-e8e739fc-1ea1-4d41-91be-ec7b2d4842f3.png"> Prueba </a>
   
 * Lección 5
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Leccion05"> Tutorial </a>
   * > Laboratorio
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/tree/main/Reto04"> Desafío </a>
-  * > <a href=""> Prueba </a>
+  * > <a href="https://user-images.githubusercontent.com/56412490/198658776-897c40f7-2430-4b06-aeeb-f856664a04b5.png"> Prueba </a>
   
 * VideoJuego
 
