@@ -46,7 +46,7 @@
     </ul>
 <li>- Personajes</li>
     <ul style= "list-style-type: circle;">
-        <li> Carro </li>
+        <li> Carro: Tendrá sonido de aceleración como de frenado y también sonido al momento de impactar con un objeto además tendrá una  música de fondo durante el juego. </li>
         <li> Objetos </li>
     </ul>
     
@@ -59,9 +59,13 @@
     </ul>
 <li> Pantallas de Juego</li>
     <ul style= "list-style-type: circle;">
+        <li> Pantalla de registro de apodo de usuario </li>
+        <li> Pantalla de inicio de juego </li>
+        <li> Pantalla de game Over </li>
         <li> Primer nivel: Una carretera en el bosque </li>
         <li> Segundo Nivel: Una pista en la ciudad </li>
         <li> Tercer Nivel: Una pista con intercambio de paisajes </li>
+        <li> Mejores Jugadores: Mostrara una pantalla con 5 mejores puntajes </li>
     </ul>
 <li> Plan de creación de VideoJuego.</li>
 </ul>
