@@ -42,7 +42,7 @@
         
 <li> Historia</li>
          <ul style= "list-style-type: circle;">
-    <li> El jugador deberá de recorrer una carreta con diversos obstáculos evitando cada uno de ellos, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</li>
+    <li> El jugador tendrá 3 vidas para recorrer una carreta con diversos obstáculos evitando cada uno de ellos en caso de que choque con uno se le resta una vida      cuando se acabe la vida le saldrá un juego de game over, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</li>
     </ul>
 <li>- Personajes</li>
     <ul style= "list-style-type: circle;">
