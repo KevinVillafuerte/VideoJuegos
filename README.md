@@ -29,7 +29,7 @@
     </ul>
 <li> Objetivo. </li>
     <ul style= "list-style-type: circle;">
-    <li> o	El jugador deberá de evitar obstáculos en un escenario 3D para poder llegar a la meta </li>
+    <li> El jugador deberá de evitar los obstáculos que aparezcan a lo largo en un escenario 3D para poder llegar a la meta y así de esa forma finalizar cada nivel y continuar con el siguiente. </li>
     </ul>
     
 <li> Plataforma ,Género, Clasificación, Personajes, Escenario.</li>
@@ -42,20 +42,21 @@
         
 <li> Historia</li>
          <ul style= "list-style-type: circle;">
-    <li> El jugador tendrá 3 vidas para recorrer una carreta con diversos obstáculos evitando cada uno de ellos en caso de que choque con uno se le resta una vida      cuando se acabe la vida le saldrá un juego de game over, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</li>
+    <li> El jugador tendrá 3 vidas para recorrer una carreta con diversos obstáculos evitando cada uno de ellos en caso de que choque con uno se le resta una vida cuando se acabe la vida le saldrá un juego de game over, para que esto sea de una mejor manera conforme avance los objetos aumentaran su velocidad con la que se acercan al jugador de igual manera habrá un PowerUp que ayude al jugador en su recorrido para esto también tendrá que recoger monedas para tener una puntuación.</li>
     </ul>
 <li>- Personajes</li>
     <ul style= "list-style-type: circle;">
         <li> Carro: Tendrá sonido de aceleración como de frenado y también sonido al momento de impactar con un objeto además tendrá una  música de fondo durante el juego. </li>
-        <li> Objetos </li>
+        <li> Objetos: Enemigos de colisión con los cuales se impacta el jugador y de esta manera es Game Over. </li>
     </ul>
     
 <li> Reglas de Juego.</li>
     <ul style= "list-style-type: circle;">
-        <li> El jugador no podrá salir de la pista </li>
-        <li> Una vez que agarre un PowerUp será temporal </li>
-        <li> No podrá atravesar obstáculos </li>
-        <li> No se podrá agarrar más de un PowerUp a la  </li>
+        <li> El jugador no podrá salir de la pista. </li>
+        <li> Una vez que agarre un PowerUp será temporal. </li>
+        <li> No podrá atravesar obstáculos. </li>
+        <li> No se podrá agarrar más de un PowerUp a la vez.  </li>
+        <li> Cada que haya una colisión con un objeto se reiniciara el nivel. </li>
     </ul>
 <li> Pantallas de Juego</li>
     <ul style= "list-style-type: circle;">
