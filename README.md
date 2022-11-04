@@ -74,12 +74,13 @@
         <img src="https://user-images.githubusercontent.com/56412490/199998933-d06b80c0-0a78-4a8b-b08c-02945dc06bc2.png"  alt="Pantalla Inicial" width="700"/>
         <li> Nivel 1 </li>
         <img src="https://user-images.githubusercontent.com/56412490/200000596-d2097757-5757-4ad3-8860-d7563f56d4d7.png" alt="Nivel 1" width="700"/>
+        
         <li> Nivel 2 </li>
         <img src="https://user-images.githubusercontent.com/56412490/200000923-af0e8edd-a7be-4f0b-a9af-3e364d36c9e6.png" alt="Nivel 2" width="700"/>
-        <li> Nivel 3 </li>
         
         <li> Pantalla Fin de Juego </li>
         <img src="https://user-images.githubusercontent.com/56412490/200000996-36923256-34ef-48e5-b48f-677a8990c43f.png" alt="Pantalla Fin de Juego" width="700"/>
+        
         <li> Puntuaciones </li>
         <img src="https://user-images.githubusercontent.com/56412490/200001074-f2bd5717-55b5-4b16-9b72-d6abab13f584.png" alt="Puntuaciones" width="700"/>
     </ul>
