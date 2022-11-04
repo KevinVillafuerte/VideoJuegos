@@ -68,6 +68,15 @@
         <li> Tercer Nivel: Una pista con intercambio de paisajes </li>
         <li> Mejores Jugadores: Mostrara una pantalla con 5 mejores puntajes </li>
     </ul>
+    <li> Prototipos de Pantallas </li>
+    <ul style= "list-style-type: circle;">
+        <li> Pantalla Inicial </li>
+        <li> Nivel 1 </li>
+        <li> Nivel 2 </li>
+        <li> Nivel 3 </li>
+        <li> Pantalla Fin de Juego </li>
+        <li> Puntuaciones </li>
+    </ul>
 <li> Plan de creación de VideoJuego.</li>
     <ul style= "list-style-type: circle;">
         <li>Trello: </li>
