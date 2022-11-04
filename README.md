@@ -115,7 +115,7 @@
   
 * Lección 5
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/blob/main/Leccion05.unitypackage"> Tutorial </a>
-  * > Laboratorio
+  * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/blob/main/Labo05.unitypackage"> Laboratorio </a>
   * > <a href="https://github.com/KevinVillafuerte/VideoJuegos/blob/main/Reto05.unitypackage"> Desafío </a>
   * > <a href="https://user-images.githubusercontent.com/56412490/198658776-897c40f7-2430-4b06-aeeb-f856664a04b5.png"> Prueba </a>
   
