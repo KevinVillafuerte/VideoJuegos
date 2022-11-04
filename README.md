@@ -83,7 +83,7 @@
     </ul>
 <li> Plan de creación de VideoJuego.</li>
     <ul style= "list-style-type: circle;">
-        <li>Trello: </li>
+        <li>Trello: https://trello.com/b/5wo53zwA/desarrollo-de-video-juegos </li>
     </ul>
 </ul>
 
