@@ -85,6 +85,11 @@
     <ul style= "list-style-type: circle;">
         <li>Trello: https://trello.com/b/5wo53zwA/desarrollo-de-video-juegos </li>
     </ul>
+    
+<li> Avances del Juego</li>
+    <ul style= "list-style-type: circle;">
+        <li>https://drive.google.com/file/d/1Eaq56nXodWgkmY2JHWViT-spSPt7VkZZ/view?usp=sharing</li>
+    </ul>
 </ul>
 
 ## Código Fuente
