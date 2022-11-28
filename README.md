@@ -54,9 +54,9 @@
     <ul style= "list-style-type: circle;">
         <li> El jugador no podrá salir de la pista. </li>
         <li> Una vez que agarre un PowerUp será temporal. </li>
-        <li> No podrá atravesar obstáculos. </li>
-        <li> No se podrá agarrar más de un PowerUp a la vez.  </li>
-        <li> Cada que haya una colisión con un objeto se reiniciara el nivel. </li>
+        <li> Tendrá dos vidas para superar el nivel. </li>
+        <li> Para ganar deberas de llegar al final y tomar las copas.  </li>
+        <li> Se utilizan las Flechas <- y -> para mover al jugador. </li>
     </ul>
 <li> Pantallas de Juego</li>
     <ul style= "list-style-type: circle;">
