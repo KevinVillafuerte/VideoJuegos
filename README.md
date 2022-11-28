@@ -88,7 +88,7 @@
     
 <li> Avances del Juego</li>
     <ul style= "list-style-type: circle;">
-        <li>https://drive.google.com/file/d/1Eaq56nXodWgkmY2JHWViT-spSPt7VkZZ/view?usp=sharing</li>
+        <li>https://drive.google.com/drive/folders/17wPsiBZrtgECHCeg0ISSYEjQb5pZ28lw?usp=sharing</li>
     </ul>
 </ul>
 
