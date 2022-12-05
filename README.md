@@ -90,6 +90,11 @@
     <ul style= "list-style-type: circle;">
         <li>https://drive.google.com/drive/folders/17wPsiBZrtgECHCeg0ISSYEjQb5pZ28lw?usp=sharing</li>
     </ul>
+    
+<li> Descargar Juego Apk</li>
+    <ul style= "list-style-type: circle;">
+        <li>https://alexcrz.itch.io/fastrun</li>
+    </ul>
 </ul>
 
 ## Código Fuente
